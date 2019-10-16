@@ -220,12 +220,12 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
     top: 1px;
 }
 
-.reference-letters{
+.reference-letters {
     display: flex;
     justify-content: center;
 }
 
-.reference-letters .btn-primary{
+.reference-letters .btn-primary {
     max-width: 150px;
 }
 
@@ -813,7 +813,7 @@ body {
 .btn-email:hover,
 .btn-email:focus,
 .btn-email:active {
-    color:white;
+    color: white;
 }
 
 .nav-tabs {
@@ -3730,6 +3730,7 @@ img {
 
 
 /* Images Gallery Style*/
+
 .gallery .cc-skills-image figure {
     position: relative;
     overflow: hidden;
@@ -4144,6 +4145,18 @@ img {
     text-align: center;
 }
 
+.mobile-icon {
+    font-size: 36px;
+    color: darkgray;
+    vertical-align: middle;
+}
+
+.mobile-icon:hover {
+    font-size: 36px;
+    color: cyan;
+    cursor: pointer;
+}
+
 .cc-contact-information .cc-contact {
     padding: 8% 0 8% 20%;
 }
@@ -4172,4 +4185,9 @@ img {
 
 .section {
     padding-bottom: 0;
+}
+
+
+}
+
 }
