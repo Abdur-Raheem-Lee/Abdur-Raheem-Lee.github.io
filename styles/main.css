@@ -231,7 +231,7 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
 
 .btn-primary {
     background-color: darkgray;
-    color: #FFFFFF;
+    color: #000000;
 }
 
 .btn-primary:hover,
